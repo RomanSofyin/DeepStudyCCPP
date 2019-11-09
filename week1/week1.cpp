@@ -8,7 +8,5 @@ using namespace std;
 int main()
 {
 	cout << "Hello CMake." << endl;
-    int a = 3;
-    a = a * 2;
 	return 0;
 }
